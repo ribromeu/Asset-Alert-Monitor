@@ -30,8 +30,8 @@ Every time it runs, the system:
 ## Email preview
 
 
-<img width="625" height="797" alt="Screenshot 2026-05-10 at 16 19 51" src="https://github.com/user-attachments/assets/664eb9b9-aa9a-42a5-86d8-96b844259328" />
 <img width="626" height="178" alt="Screenshot 2026-05-10 at 16 20 15" src="https://github.com/user-attachments/assets/67e44413-0b2d-4acf-bf67-479d664174b6" />
+<img width="625" height="797" alt="Screenshot 2026-05-10 at 16 19 51" src="https://github.com/user-attachments/assets/664eb9b9-aa9a-42a5-86d8-96b844259328" />
 
 ---
 
