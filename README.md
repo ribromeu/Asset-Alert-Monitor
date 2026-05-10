@@ -166,7 +166,7 @@ The codebase is structured in clearly delimited blocks, each with an inline comm
 
 ## Background
 
-I built this during my BS Economics program (minors in Finance and Data Analysis) as a practical tool for tracking a personal watchlist with rigorous quantitative context. The goal was to go beyond simple price alerts — each notification carries the full risk profile of the asset (volatility, drawdown, momentum, CAPM attribution) and benchmarks it against the market, inflation, and the risk-free rate, so the signal is immediately actionable without needing to open a terminal or a spreadsheet.
+I built this during my BS Economics program (minors in Finance and Data Analysis) as a practical tool for tracking a personal watchlist with quantitative context. The goal was to go beyond simple price alerts — each notification carries the full risk profile of the asset (volatility, drawdown, momentum, CAPM attribution) and benchmarks it against the market, inflation, and the risk-free rate, so the signal is immediately actionable without needing to open a terminal or a spreadsheet.
 
 ---
 
