@@ -170,6 +170,12 @@ I built this during my BS Economics program (minors in Finance and Data Analysis
 
 ---
 
+## AI Attribution
+
+This project was developed with the assistance of [Claude](https://www.anthropic.com/claude) (Anthropic). Claude was used to support code organization, improve code structure and readability, and enhance overall efficiency of the implementation.
+
+---
+
 ## License
 
 MIT
